@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ssgar Ramtel
+- 👋 Hi, I’m @Sagar Ramtel
 - 👀 I’m interested in softwar development
 - 🌱 I’m currently learning Python,flutter
 - 💞️ I’m looking to collaborate on ...
